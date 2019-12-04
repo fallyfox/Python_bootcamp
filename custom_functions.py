@@ -1,5 +1,5 @@
 #Creating a docstring(documentation) for your custom functions
-#NOTE: to find the docstring of a function, call the function with no arguments, then within the bracket press Shift and Tab
+#note: to find the docstring of a function, call the function with no arguments, then within the bracket press Shift and Tab
 def product(num1,num2):
     """
     DOCSTRING
