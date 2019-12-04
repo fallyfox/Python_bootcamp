@@ -31,3 +31,14 @@ elif state == "ebonyi":
     ebonyi()
 else:
     print("This region is not available at this time.")
+
+    #---------------------------------------------------------
+    #Assignment
+    #---------------------------------------------------------
+    #Build a functional calculator that can perform all of these operations: addition, subtraction, multiplication and division
+    #Build each operation as a function
+    #Accept data from the user like the first number, math's operation sign(eg. +,-,*,/) and second number
+    #Write conditional statements to run specific block of code for each of the cases: (addition, subtraction, multiplication and division)
+    #Call the necessary function you had defined to carry our each operation and return the corresponding result within the conditional statements
+    #The result is expected to be in form of this example: 30 multiplied by 3 is equal to 90
+    #------------- end ---------------------------------------
