@@ -1,0 +1,6 @@
+#Use a dictionary to create a database
+#The database uses username to conatin each person's information
+#each person has the following info: First name, surname, department, age
+#write an input statement that can allow each person to change his department
+#Security: a person can only change his department if only his username exists in the database, and if the surname you ask him for matches what is in the database
+
